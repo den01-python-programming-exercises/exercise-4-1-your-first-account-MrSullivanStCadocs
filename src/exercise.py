@@ -10,6 +10,7 @@ def main():
     
     print("End state")
     print(Richs_account)
+    print("")
 
 # Don't edit below this line - this setup is required for testing
 if __name__ == '__main__':
