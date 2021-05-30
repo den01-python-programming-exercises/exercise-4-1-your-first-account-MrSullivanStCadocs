@@ -9,7 +9,7 @@ def main():
     Richs_account.deposit(20)
     
     print("End state")
-    print(Richs_account)
+    print(Richs_account.balance)
     print("")
 
 # Don't edit below this line - this setup is required for testing
